@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//part 7 making comments
 namespace GameListLibrary
 {
     public class Game

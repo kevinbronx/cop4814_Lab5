@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 //part 7 making comments
-//lab 7 commenting 2
+
 namespace GameListLibrary
 {
     public class Game
